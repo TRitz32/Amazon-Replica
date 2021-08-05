@@ -1,0 +1,53 @@
+.container {
+    text-align: left;
+    width: 20%;
+    margin: auto;
+}
+
+.forward {
+    text-align: center;
+    background-color: #F3A847;
+    color: black; 
+    border: 2px solid black;
+    width: 20%;
+    margin: auto;
+}
+
+.new {
+    text-align: center;
+    color: lightslategrey
+}
+
+.create {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.foot {
+    text-align: center;
+    border-top: 2px solid black;
+    color: #0066c0;
+}
+
+.email {
+    text-align: left;
+    width: 20%;
+    margin: auto;
+}
+
+.password {
+    text-align: left;
+    width: 20%;
+    margin: auto; 
+}
+
+.help {
+    color: #0066c0; 
+    margin: auto;
+    width: 19%;
+}
+
+.left {
+    width: 20%;
+    margin: auto;
+}
